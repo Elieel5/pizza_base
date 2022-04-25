@@ -39,6 +39,7 @@ header {
     height:32px;
     display:none;
     font-size: 30px;
+    cursor: pointer;
 }
 
 aside {
